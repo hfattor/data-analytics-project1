@@ -19,8 +19,8 @@ Only 7 were high-density, 4 were low-density
 During explorations of the number of sightings per year from the 1950s forward, it was briefly considered to split observations between one of several noted 'jumps' in the total number of sightings annually: Until 1993, there were around 100 sightings per year on average. Then, after 1994, the sightings would steadily increase per year, until 1999 where over 1200 sightings were recorded, continuing at this new increased rate until 2008 where we have almost 2300 sightings.
 
 It was presumed there might be some 'confounding variable' which might statistically skew the results in testing, so the data was initially split into sightings Pre-1994 and sightings Post-1994, inclusive. However, upon further inspection and review, it was concluded this phenomenon is likely due to:
-    a) the increased access to reporting technologies such as mobile devices, allowing more individuals to access NUFORC, and
-    b) the launching and upkeep of the NUFORC.org website, which has been in operation since 1994, and
+    a) the launching and upkeep of the NUFORC.org website, which has been in operation since 1994, and
+    b) the increased access to reporting technologies such as mobile devices, allowing more individuals to access NUFORC via telephone line and potentially web.
     
 After consideration of the above factors, there was no indication that these phenomena would affect our samples in question disproportionately. Further discussion and quantitative reasoning in 'Analysis'.
 
