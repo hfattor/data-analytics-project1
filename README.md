@@ -12,7 +12,7 @@ UFO reports were gathered from a dataset published on Kaggle, consistent with th
 
 Selected top 11 states for most UFO sightings reported. It was assumed that this would create more consistent data to work from for UFO sightings, without focusing on state density.
 
-Only 7 were high-density, 4 were low-density 
+Only 7 were high-density, 4 remained low-density. 
 
 ## The 1994 Question
 
@@ -25,4 +25,12 @@ It was presumed there might be some 'confounding variable' which might statistic
 After consideration of the above factors, there was no indication that these phenomena would affect our samples in question disproportionately. Further discussion and quantitative reasoning in 'Analysis'.
 
 # Analysis
+
+## Correlation and Regression
+
+With correlation coefficients between number of sightings and population density of r = 0.1178 and r = 0.2634 for high and low density populations respectively, it's safe to say there's very little in terms of the relationship - if any - between the two variables. Interestingly there are notions of slightly stronger correlation with the low density populations, but still extremely weak. Potential loss of crucial information due to population density being measured by decade - instead of year - which could have further informed our correlation. This is a limit due to availability of data.
+
+## Two Sample t-Test
+
+With a general alpha level of alpha=0.05, and our returned p-value of 0.0250, we successfully reject our null hypothesis - which is to say we have the 
 
