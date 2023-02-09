@@ -53,13 +53,15 @@ Of the 11 focus states, 4 were high-density (Illinois, New York, Ohio, and Penns
 
 This analysis found a very weak positive correlation between the number of UFO sightings reported and resident population density for high-density states (r-value: 0.117773). Low-density states have a slightly higher positive correlation between the number of UFO sightings reported and the resident population density (r-value: 0.263391). A scatterplot of each of these state population categories, including the line of best fit, can be found in the 'Output' folder in a .png format. The conclusion of this study is that there is very little correlation between the two variables, and therefore the alternative hypothesis presented above is disproven.
 
-## <em>Hypothesis: If a state has a high population density, then it will have a higher number of UFO sightings.</em>
+## <em>Null Hypothesis: There is no difference in the samples of UFO sightings recorded between states with high population density and states with low population density.</em>
 
 ## Analysis - T-test
 
-In a two-sample T-test, this study found that the alpha level is low (alpha: 0.05) and the p-value between sightings reported per year in high-density states vs. the sightings per year in low-density states was low (p-value: 0.024994). This successfully rejects the null hypothesis and sees a correlation between states having a high population density and a high number of UFO sightings.
+In a two-sample T-test, this study found that, using a standard alpha value of 0.05, the p-value between sightings reported per year in high-density states vs. the sightings per year in low-density states was low (p-value: 0.024994). Therefore, this study successfully rejects the null hypothesis and suggests the two samples of sightings per year have a statistically significant difference. That is to say, low-density states and high-density states report a difference in the statistical spread of sightings per year, and by measures of central tendency.
 
 # Further Research
+
+It is intriguing to note the instances of cities and states which reported high numbers of sightings in total compared to what their relative populations were. For instance, Portland, OR ranks among the top five cities which report the most number of sightings across the years, but as of 2014 ranked as only the 28th most populated city in America (U.S. Census Bureau). Many more variables are at play which may contribute to such focused and/or vast distributions in the accumulation of UFO sightings.
 
 Because of the magnitude of data, focus was put on specific states and statewide populations. Any future study of this topic may focus on areas of states (e.g., counties, census tracts, cities) that had high-density UFO reports across decades. These areas would be determined by longitude and latitude reported to the NUFORC. Examples of these areas for further study can be found in the 'Output/State Maps' folder. These .html maps note the location of each reported UFO sighting in a state, with the color representing the year the sighting was reported. As another example, further study could look into aircraft sites within 50 miles of high UFO-sighting sites and examine a relationship there.
 
