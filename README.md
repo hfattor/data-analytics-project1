@@ -49,7 +49,7 @@ This study explored the change in a state's population every decade (as recorded
 
 In the U.S. Census' definition, population density is "a measure of average population per square mile." If a state had a resident population density over 100, it was classified as a high-density state for this analysis. If a state had a resident population density under 100, it was classified as a low-density state. 
 
-Of the 11 focus states, 4 were high-density (Illinois, New York, Ohio, and Pennsylvania) and 7 were low-density (Arizona, California, Florida, Michigan, Oregon, Texas, and Washington).
+Of the 11 focus states, 8 were high-density during periods of the 60-year span we looked at (California, Florida, Illinois, Michigan, New York, Ohio,  Pennsylvania, and Washington) and 7 were low-density during periods of the 60-year span we looked at (Arizona, California, Florida, Oregon, Texas, and Washington).
 
 This analysis found a very weak positive correlation between the number of UFO sightings reported and resident population density for high-density states (r-value: 0.117773). Low-density states have a slightly higher positive correlation between the number of UFO sightings reported and the resident population density (r-value: 0.263391). A scatterplot of each of these state population categories, including the line of best fit, can be found in the 'Output' folder in a .png format. The conclusion of this study is that there is very little correlation between the two variables, and therefore the alternative hypothesis presented above is disproven.
 
